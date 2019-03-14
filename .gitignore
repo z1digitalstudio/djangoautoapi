@@ -1,0 +1,17 @@
+*.pyc
+*.db
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+.*
+
+/site/
+/build/
+/dist/
+/*.egg-info/
+/env/
+MANIFEST
+
+!.gitignore
